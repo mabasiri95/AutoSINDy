@@ -1,0 +1,16 @@
+\begin{table}[htbp]
+\centering
+\small
+\renewcommand{\arraystretch}{1.2}
+\caption{Performance on Van der Pol (mean $\pm$ std, 6 noise levels, 11 seeds).}
+\label{tab:autosindy_vanderpol}
+\begin{tabular}{lccccc}
+\toprule
+Model & Val. $R^2$ & Sim. $R^2$ & Complexity & Disc. (s) & Sim. (s) \\
+\midrule
+AutoSINDy (ours) & 1.000 $\pm$ 0.001 & 0.985 $\pm$ 0.063 & 13.5 $\pm$ 5.8 & 24.7 $\pm$ 5.4 & 2.6 $\pm$ 2.5 \\
+Standard SINDy & 0.991 $\pm$ 0.024 & 0.559 $\pm$ 0.828 & 173.0 $\pm$ 121.4 & 0.8 $\pm$ 0.2 & 9.6 $\pm$ 35.4 \\
+Standard PySR & 0.828 $\pm$ 0.043 & -0.414 $\pm$ 0.228 & 8.6 $\pm$ 0.6 & 21.8 $\pm$ 3.6 & 11.8 $\pm$ 9.5 \\
+\bottomrule
+\end{tabular}
+\end{table}

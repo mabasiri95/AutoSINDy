@@ -1,0 +1,8 @@
+matplotlib==3.10.7
+scipy==1.16.3
+numpy==1.26.4
+pandas==2.3.3
+pysindy==1.7.5
+pysr==1.5.8
+sympy==1.14.0
+seaborn==0.13.2

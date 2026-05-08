@@ -1,0 +1,272 @@
+{
+  "duffing|0|32|main": {
+    "system_name": "duffing",
+    "noise_level": 0,
+    "nominal_seed": 32,
+    "actual_seed": 32,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:17:34"
+  },
+  "duffing|0|33|main": {
+    "system_name": "duffing",
+    "noise_level": 0,
+    "nominal_seed": 33,
+    "actual_seed": 33,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:18:08"
+  },
+  "duffing|0|34|main": {
+    "system_name": "duffing",
+    "noise_level": 0,
+    "nominal_seed": 34,
+    "actual_seed": 34,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:18:42"
+  },
+  "duffing|0|35|main": {
+    "system_name": "duffing",
+    "noise_level": 0,
+    "nominal_seed": 35,
+    "actual_seed": 35,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:19:17"
+  },
+  "duffing|0|36|main": {
+    "system_name": "duffing",
+    "noise_level": 0,
+    "nominal_seed": 36,
+    "actual_seed": 136,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:45:52"
+  },
+  "duffing|0.01|32|main": {
+    "system_name": "duffing",
+    "noise_level": 0.01,
+    "nominal_seed": 32,
+    "actual_seed": 32,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:46:35"
+  },
+  "duffing|0.01|33|main": {
+    "system_name": "duffing",
+    "noise_level": 0.01,
+    "nominal_seed": 33,
+    "actual_seed": 33,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:47:18"
+  },
+  "duffing|0.01|34|main": {
+    "system_name": "duffing",
+    "noise_level": 0.01,
+    "nominal_seed": 34,
+    "actual_seed": 34,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:48:03"
+  },
+  "duffing|0.01|35|main": {
+    "system_name": "duffing",
+    "noise_level": 0.01,
+    "nominal_seed": 35,
+    "actual_seed": 135,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:50:31"
+  },
+  "duffing|0.01|36|main": {
+    "system_name": "duffing",
+    "noise_level": 0.01,
+    "nominal_seed": 36,
+    "actual_seed": 36,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:51:14"
+  },
+  "duffing|0.02|32|main": {
+    "system_name": "duffing",
+    "noise_level": 0.02,
+    "nominal_seed": 32,
+    "actual_seed": 32,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:51:57"
+  },
+  "duffing|0.02|33|main": {
+    "system_name": "duffing",
+    "noise_level": 0.02,
+    "nominal_seed": 33,
+    "actual_seed": 33,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:52:48"
+  },
+  "duffing|0.02|34|main": {
+    "system_name": "duffing",
+    "noise_level": 0.02,
+    "nominal_seed": 34,
+    "actual_seed": 34,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:53:30"
+  },
+  "duffing|0.02|35|main": {
+    "system_name": "duffing",
+    "noise_level": 0.02,
+    "nominal_seed": 35,
+    "actual_seed": 35,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T16:54:13"
+  },
+  "duffing|0.02|36|main": {
+    "system_name": "duffing",
+    "noise_level": 0.02,
+    "nominal_seed": 36,
+    "actual_seed": 136,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T18:30:38"
+  },
+  "duffing|0.03|32|main": {
+    "system_name": "duffing",
+    "noise_level": 0.03,
+    "nominal_seed": 32,
+    "actual_seed": 32,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T18:31:25"
+  },
+  "duffing|0.03|33|main": {
+    "system_name": "duffing",
+    "noise_level": 0.03,
+    "nominal_seed": 33,
+    "actual_seed": 33,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T18:32:23"
+  },
+  "duffing|0.03|34|main": {
+    "system_name": "duffing",
+    "noise_level": 0.03,
+    "nominal_seed": 34,
+    "actual_seed": 34,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T18:33:04"
+  },
+  "duffing|0.03|35|main": {
+    "system_name": "duffing",
+    "noise_level": 0.03,
+    "nominal_seed": 35,
+    "actual_seed": 135,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:28:59"
+  },
+  "duffing|0.03|36|main": {
+    "system_name": "duffing",
+    "noise_level": 0.03,
+    "nominal_seed": 36,
+    "actual_seed": 136,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:34:17"
+  },
+  "duffing|0.04|32|main": {
+    "system_name": "duffing",
+    "noise_level": 0.04,
+    "nominal_seed": 32,
+    "actual_seed": 32,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:35:05"
+  },
+  "duffing|0.04|33|main": {
+    "system_name": "duffing",
+    "noise_level": 0.04,
+    "nominal_seed": 33,
+    "actual_seed": 33,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:36:04"
+  },
+  "duffing|0.04|34|main": {
+    "system_name": "duffing",
+    "noise_level": 0.04,
+    "nominal_seed": 34,
+    "actual_seed": 34,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:37:05"
+  },
+  "duffing|0.04|35|main": {
+    "system_name": "duffing",
+    "noise_level": 0.04,
+    "nominal_seed": 35,
+    "actual_seed": 235,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:39:55"
+  },
+  "duffing|0.04|36|main": {
+    "system_name": "duffing",
+    "noise_level": 0.04,
+    "nominal_seed": 36,
+    "actual_seed": 136,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:42:58"
+  },
+  "duffing|0.05|32|main": {
+    "system_name": "duffing",
+    "noise_level": 0.05,
+    "nominal_seed": 32,
+    "actual_seed": 32,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:44:01"
+  },
+  "duffing|0.05|33|main": {
+    "system_name": "duffing",
+    "noise_level": 0.05,
+    "nominal_seed": 33,
+    "actual_seed": 133,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:52:18"
+  },
+  "duffing|0.05|34|main": {
+    "system_name": "duffing",
+    "noise_level": 0.05,
+    "nominal_seed": 34,
+    "actual_seed": 34,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:53:12"
+  },
+  "duffing|0.05|35|main": {
+    "system_name": "duffing",
+    "noise_level": 0.05,
+    "nominal_seed": 35,
+    "actual_seed": 35,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:54:13"
+  },
+  "duffing|0.05|36|main": {
+    "system_name": "duffing",
+    "noise_level": 0.05,
+    "nominal_seed": 36,
+    "actual_seed": 36,
+    "run_tag": "main",
+    "completed": true,
+    "completed_at": "2026-04-28T20:54:58"
+  }
+}

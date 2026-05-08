@@ -1,0 +1,16 @@
+\begin{table}[htbp]
+\centering
+\small
+\renewcommand{\arraystretch}{1.2}
+\caption{Performance on Duffing (mean $\pm$ std, 5 noise levels, 8 seeds).}
+\label{tab:autosindy_duffing}
+\begin{tabular}{lccccc}
+\toprule
+Model & Val. $R^2$ & Sim. $R^2$ & Complexity & Disc. (s) & Sim. (s) \\
+\midrule
+AutoSINDy (ours) & 0.881 $\pm$ 0.382 & 0.994 $\pm$ 0.006 & 7.3 $\pm$ 0.7 & 21.3 $\pm$ 6.5 & 1.0 $\pm$ 0.3 \\
+Standard SINDy & -65.194 $\pm$ 80.702 & --- & 7.7 $\pm$ 4.4 & 0.5 $\pm$ 0.1 & 1.1 $\pm$ 0.4 \\
+Standard PySR & -22065.898 $\pm$ 106596.497 & 0.436 $\pm$ 1.151 & 18.4 $\pm$ 21.9 & 16.5 $\pm$ 2.6 & 5.9 $\pm$ 2.7 \\
+\bottomrule
+\end{tabular}
+\end{table}
