@@ -1,4 +1,4 @@
-# AutoSINDy: Discovery of Nonlinear Dynamics with Automated Basis Function Generation
+# Discovery of Nonlinear Dynamics with Automated Basis Function Generation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" />
@@ -299,12 +299,14 @@ Std. PySR     Derivative:  28.3% Excellent │ 32.8% Good │ 30.0% Poor │  8.
 If you use AutoSINDy in your research, please cite:
 
 ```bibtex
-@article{basiri2026autosindy,
-  title   = {Discovery of Nonlinear Dynamics with Automated Basis Function Generation},
-  author  = {Basiri, Mohammad Amin and Nicholson, Charles},
-  journal = {arXiv preprint},
-  year    = {2026},
-  note    = {University of Oklahoma}
+@misc{basiri2026discoverynonlineardynamicsautomated,
+      title={Discovery of Nonlinear Dynamics with Automated Basis Function Generation}, 
+      author={Mohammad Amin Basiri and Charles Nicholson},
+      year={2026},
+      eprint={2605.09696},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.09696}, 
 }
 ```
 
