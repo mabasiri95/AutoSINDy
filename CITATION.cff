@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Basiri
+    given-names: Mohammad Amin
+    email: ma.basiri@ou.edu
+  - family-names: Nicholson
+    given-names: Charles
+    email: cnicholson@ou.edu
+title: "Discovery of Nonlinear Dynamics with Automated 
+        Basis Function Generation"
+year: 2026
+url: "https://github.com/mabasiri95/AutoSINDy"
+identifiers:
+  - type: url
+    value: "https://arxiv.org/abs/2605.09696"
+    description: "arXiv preprint"
