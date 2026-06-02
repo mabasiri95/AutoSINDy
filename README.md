@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/PySINDy-1.7.5-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PySR-1.5.8-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Preprint-yellow?style=for-the-badge" />
+  [![arXiv](https://img.shields.io/badge/arXiv-2605.09696-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2605.09696)
+
 </p>
 
 <p align="center">
