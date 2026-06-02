@@ -1,13 +1,14 @@
 # Discovery of Nonlinear Dynamics with Automated Basis Function Generation
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2605.09696">
+    <img src="https://img.shields.io/badge/arXiv-2605.09696-b31b1b?style=for-the-badge&logo=arxiv" />
+  </a>
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PySINDy-1.7.5-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PySR-1.5.8-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Preprint-yellow?style=for-the-badge" />
-  [![arXiv](https://img.shields.io/badge/arXiv-2605.09696-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2605.09696)
-
+  <img src="https://img.shields.io/badge/Status-Published%20on%20arXiv-brightgreen?style=for-the-badge" />
 </p>
 
 <p align="center">
