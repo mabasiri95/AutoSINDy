@@ -56,6 +56,10 @@ The raw expression pool is processed through three sequential operations:
 ### Stage 3: Identify (Ensemble SINDy)
 The curated library is handed to an ensemble SINDy optimizer (STLSQ or SR3) running over *B* bootstrap replicates. Terms are retained only if their inclusion probability across the ensemble exceeds a hard cutoff `κ = 0.80`, providing robust noise rejection.
 
+<img width="1080" height="824" alt="Frameworkc" src="https://github.com/user-attachments/assets/6046331f-9c2b-4f0d-9576-232e55d8ca76" />
+
+
+
 ---
 
 ## Benchmark Systems
