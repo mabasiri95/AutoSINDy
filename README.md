@@ -20,6 +20,11 @@
 
 **AutoSINDy** is a hybrid *Discovery-then-Solve* framework that automatically identifies sparse governing equations of nonlinear dynamical systems from noisy observational data **without any prior specification of the system's mathematical form**.
 
+
+<img width="1280" height="480" alt="overviewcpp" src="https://github.com/user-attachments/assets/a8fe6720-ba53-48f8-8147-c4c8ddec76ff" />
+
+
+
 Standard SINDy methods require a researcher-specified candidate library. If the right basis functions are omitted, the method fails. Symbolic regression is flexible but noise-sensitive and often produces bloated, unstable equations. **AutoSINDy bridges both worlds**:
 
 ```
